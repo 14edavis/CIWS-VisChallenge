@@ -1,6 +1,6 @@
 # CIWS-VisChallenge 
 
-Basilisk reads an file of Intelligent Water Supply Data
+Basilisk reads a csv file of Intelligent Water Supply Data
 and creates two lists: timestamps and water pulses.
 On these lists, the item at index *n* of the timestamps list corresponds with index *n* of the water pulse list
 The timestamp list utilize a datetime object, allowing for various time-related manipulations.
