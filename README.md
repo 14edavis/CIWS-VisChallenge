@@ -37,8 +37,8 @@ Or get creative, and tack together your hourly-average data into a more detailed
  
 Speaking of creative, what happens if you average water usage by the minute-stamp? 
 (i.e. all the water pulses at 1:43, 2:43, 3:43, 4:43, etc. belong to the same group) 
-Turns out that this unusual analysis show a pattern, too. Now we can see that Monday/Wednesday/Friday all have a similar schedule. 
-So do Tuesday/Thursday. The averaging by minute-stamp shows an interesting facet (*faucet?*) for water researchers to explore. 
+Turns out that this unusual analysis shows a pattern. Now we can see that Monday/Wednesday/Friday all have a similar schedule. 
+So do Tuesday/Thursday. The averaging by minute-stamp gives an interesting facet (*faucet?*) for water researchers to explore. 
 
 ![alt text](https://raw.githubusercontent.com/14edavis/CIWS-VisChallenge/master/doc/images/graph_Minute.png)  
 
