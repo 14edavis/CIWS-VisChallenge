@@ -392,7 +392,18 @@ class Basilisk(): #residential
         plt.ylabel(y_axis)
         plt.xlabel(x_axis)
         plt.show()
-    
+        
+    def multidata_plot(self, data_list, colors =['b','g','r','c','m','y','k'], legend_list = None, title = 'Household Water Usage', y_axis = 'Water Use', x_axis = 'Time'):
+        #data list is of the form [ [[time],[water]], [[time],[water]], ... , [[time],[water]] ]
+        #simplifies plotting
+        for i in range(len(data_list)):
+            plt.plot(data_list[i][0], data_list[i][1], colors[i])
+        if legend_list != None:
+            plt.legend((legend_list))
+        plt.title((title))
+        plt.ylabel(y_axis)
+        plt.xlabel(x_axis)
+        plt.show()    
      
     
 def sample_analysis():
