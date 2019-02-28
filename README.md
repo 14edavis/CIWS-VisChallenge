@@ -1,4 +1,4 @@
-# CIWS-VisChallenge 
+# CIWS-VisChallenge (Household Residential Data)
 
 Basilisk reads a csv file of household residential Intelligent Water Supply Data
 and creates two lists: timestamps and water pulses.
