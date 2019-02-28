@@ -5,7 +5,10 @@ and creates two lists: timestamps and water pulses.
 On these lists, the item at index *n* of the timestamps list corresponds with index *n* of the water pulse list
 The timestamp list utilize a datetime object, allowing for various time-related manipulations.
     
-Basilisk has 3 types of functions--*filtering*, *totaling*, and *averaging* functions--examplified by the sample graphs. It aids both water consumers and providers, who would want graphs showing patterns and trends, as well as water researchers that might want to analyze and manipulate data on a more detailed level.
+Basilisk has 3 types of functions--*filtering*, *totaling*, and *averaging* functions--examplified by the sample graphs. 
+It aids both water consumers and providers, who would want graphs showing patterns and trends, 
+as well as water researchers that might want to analyze and manipulate data on a more detailed level. 
+Along with creating graphs, passing data through the functions creates data sets that researchers can use for further analysis.
 
 ## Sample Graphs
 
