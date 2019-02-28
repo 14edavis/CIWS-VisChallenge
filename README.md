@@ -42,7 +42,7 @@ So do Tuesday/Thursday. The averaging by minute-stamp shows an interesting facet
 
 ![alt text](https://raw.githubusercontent.com/14edavis/CIWS-VisChallenge/master/doc/images/graph_Minute.png)  
 
-What if you don't want averages, but a simple timeline instead? Just pick a timeframe and the appropriate filter & resolution.
+What if you don't want averages, but a simple timeline instead? Just pick a timeframe and the appropriate filter and resolution.
 
 Watch daily water usage over a month.
 
