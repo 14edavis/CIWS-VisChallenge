@@ -1,5 +1,12 @@
 # CIWS-VisChallenge 
 
+Basilisk reads an file of Intelligent Water Supply Data
+and creates two lists: timestamps and water pulses.
+On these lists, the item at index *n* of the timestamps list corresponds with index *n* of the water pulse list
+The timestamp list utilize a datetime object, allowing for various time-related manipulations.
+    
+Basilisk has 3 types of functions--*filtering*, *totaling*, and *averaging* functions--examplified by the sample graphs.
+
 ## Sample Graphs
 
 Basilisk makes use of datetime timestamps to visualize residential water usage through various averaging and filtering functions. 
