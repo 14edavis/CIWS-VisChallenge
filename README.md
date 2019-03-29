@@ -10,6 +10,8 @@ It aids both water consumers and providers, who would want graphs showing patter
 as well as water researchers that might want to analyze and manipulate data on a more detailed level. 
 Along with creating graphs, passing data through the functions creates data sets that researchers can use for further analysis.
 
+_**NOTE:** Troubleshooting section at the end_
+
 ## Sample Graphs
 
 Basilisk makes use of datetime timestamps to visualize residential water usage through various averaging and filtering functions. 
